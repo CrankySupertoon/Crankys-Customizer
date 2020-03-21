@@ -11,3 +11,7 @@ somewhere.
 I lost the source ages ago so here is
 A decompile. Feel free to use this
 crappy code from an 12 year old idiot
+
+
+The only thing I remember is i used
+Visual Studio 2008
